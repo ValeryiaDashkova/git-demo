@@ -2,3 +2,5 @@ good morning
 morning good
 good evening
 evening good
+good afternoon
+afternoon good
